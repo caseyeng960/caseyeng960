@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Casey (@caseyeng960)
 
-<!--
-**caseyeng960/caseyeng960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst based in Berlin. Spend most of my time wrangling messy metrics, writing SQL queries that run without timing out, and automating recurring reporting tasks with Python.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Analyzing user behavior and telemetry pipelines at Data Insights.
+- Experimenting with DuckDB for fast local OLAP queries without spinning up heavy infra.
+- Building small CLI utilities to validate CSV/Parquet schemas before ingestion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Languages & Libraries:** Python (Pandas, NumPy, Polars), SQL, Bash
+- **Data Engines & Tools:** DuckDB, PostgreSQL, SQLite, Jupyter, dbt
+- **Workflow:** Git, Docker, Linux
+
+#### Connect
+- Find me on [LinkedIn](https://linkedin.com/in/caseyeng960) or drop an email via my GitHub profile.
